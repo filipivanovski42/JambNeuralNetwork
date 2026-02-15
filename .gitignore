@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and TensorBoard
+logs/
+
+# Model Checkpoints (Very Large)
+models/
+
+# Precomputed Data
+*.npy
+*.npz
+
+# Reports (Optional, but user might want to keep the final one?)
+# I'll keep .md files as they are project documentation/results.
+
+# IDEs
+.vscode/
+.idea/
