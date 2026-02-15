@@ -1,0 +1,1 @@
+"PyTreeDef({'params': {'Dense_0': {'bias': *, 'kernel': *}, 'Dense_1': {'bias': *, 'kernel': *}, 'Dense_2': {'bias': *, 'kernel': *}, 'Dense_3': {'bias': *, 'kernel': *}, 'Dense_4': {'bias': *, 'kernel': *}, 'Dense_5': {'bias': *, 'kernel': *}, 'Dense_6': {'bias': *, 'kernel': *}, 'Dense_7': {'bias': *, 'kernel': *}}})"
